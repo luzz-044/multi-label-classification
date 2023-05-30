@@ -5,4 +5,5 @@ Before the network training, we processed the fundus images in the ODIR database
 
 # Download:
 public database: https://github.com/nkicsl/OIA;
+
 model and code: 链接: https://pan.baidu.com/s/1uRmLmwbf5-N6J61cuZtg-w 提取码: dw5s
